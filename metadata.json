@@ -1,0 +1,6 @@
+{
+  "name": "LinkLauncher Pro - Abrir Múltiplos Links",
+  "description": "Gerencie e acione múltiplos links de uma vez com um só clique, organização por categorias, edição, exclusão e suporte a bloqueador de pop-ups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
